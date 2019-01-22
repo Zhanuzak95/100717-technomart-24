@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Жанузак Шакубаев](https://up.htmlacademy.ru/htmlcss/24/user/100717).
-* Наставник: [Вадим Шнайдер] (https://htmlacademy.ru/profile/id639951)
+* Наставник: [Владимир Шнайдер] (https://htmlacademy.ru/profile/id639951)
 
 ---
 
